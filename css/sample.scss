@@ -517,17 +517,22 @@ footer{
 
       }
 
-      @media (min-width: 550px) {
-
-        h2 {
-          @include fontsize(20);
-          padding-bottom: 20px;
-        }
+    }
+    
+    @media (min-width: 550px) {
+        
+        #main {
+          
+          padding-right: 20px;
+          
+            h2 {
+              @include fontsize(20);
+              padding-bottom: 20px;
+            }
+          
+          }
 
       }
-
-
-    }
 
     #sidebar {
       

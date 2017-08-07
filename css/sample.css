@@ -274,10 +274,12 @@ footer {
     font-weight: bold;
     padding-bottom: 15px; }
   @media (min-width: 550px) {
-    #contents #main h2 {
-      font-size: 20px;
-      font-size: 2rem;
-      padding-bottom: 20px; } }
+    #contents #main {
+      padding-right: 20px; }
+      #contents #main h2 {
+        font-size: 20px;
+        font-size: 2rem;
+        padding-bottom: 20px; } }
   #contents #sidebar {
     padding-bottom: 20px; }
     #contents #sidebar .pc_sidemenu h3 {
