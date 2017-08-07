@@ -338,5 +338,7 @@ footer {
   font-size: 14px;
   font-size: 1.4rem;
   color: #626262; }
+#contents #main th {
+  padding-right: 20px; }
 
 /*# sourceMappingURL=sample.css.map */
